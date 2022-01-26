@@ -1,4 +1,4 @@
-# Solving Eight Queens problem using Genetic Algorithm
+# Eight Queens problem with Genetic Algorithm
 
 > This repository is made for the Computational Intelligence course project - May 2018.
 
